@@ -33,27 +33,38 @@ CURIEResolution:
     iri_prefix:
       - "http://purl.obolibrary.org/obo/NCBITaxon_"
       - "http://purl.bioontology.org/ontology/NCBITAXON/"
+      - "http://www.ebi.ac.uk/ols/api/ontologies/ncbitaxon/terms/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FNCBITaxon_"
   -
     curie_prefix: NCIT
     iri_prefix:
       - "http://purl.obolibrary.org/obo/NCIT_"
       - "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#"
+      - "http://www.ebi.ac.uk/ols/api/ontologies/NCIT/terms/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FNCIT_"
+
   -
     curie_prefix: UO
     iri_prefix:
       - "http://purl.obolibrary.org/obo/UO_"
+      - "http://www.ebi.ac.uk/ols/api/ontologies/UO/terms/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUO_"
+
   -
     curie_prefix: DOID
     iri_prefix:
       - "http://purl.obolibrary.org/obo/DOID_"
+      - "http://www.ebi.ac.uk/ols/api/ontologies/DOID/terms/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FDOID_"
+
   -
     curie_prefix: UBERON
     iri_prefix:
       - "http://purl.obolibrary.org/obo/UBERON_"
+      - "http://www.ebi.ac.uk/ols/api/ontologies/UBERON/terms/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_"
+
   -
     curie_prefix: CL
     iri_prefix:
       - "http://purl.obolibrary.org/obo/CL_"
+      - "http://www.ebi.ac.uk/ols/api/ontologies/CL/terms/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCL_"
+
 
 
 # AIRR specification extensions
